@@ -1,4 +1,5 @@
 sales.csv
 validation_for_students.csv
 sales_predictions.csv
-.DS_Store*.pkl
+.DS_Store
+*.pkl
